@@ -1,11 +1,12 @@
 # Introduksjon i web-utvikling
 ## Viktige begreper
+<dl>
+<dt>Webapplikasjon</dt>
+<dd>ifølge ("Applikasjon," n.d.) er en applikasjon et program utformet for å løse spesielle oppgaver eller gi en bestemt type informasjon; webapplikasjon kan da defineres som en mengde av flere programmer for bruken på web (verdensvev)</dd>
 
-Webapplikasjon
-: ifølge ("Applikasjon," n.d.) er en applikasjon et program utformet for å løse spesielle oppgaver eller gi en bestemt type informasjon; webapplikasjon kan da defineres som en mengde av flere programmer for bruken på web (verdensvev)
-
-App
-: (mindre) program (applikasjon) laget til bruk på smarttelefoner, nettbrett o.l. ("App," n.d.)
+<dt>App</dt>
+<dd>(mindre) program (applikasjon) laget til bruk på smarttelefoner, nettbrett o.l. ("App," n.d.)</dd>
+<dl>
 
 ---
 ## Viktig å lære
@@ -20,6 +21,53 @@ En annen viktig del, som man må kunne som utvikler av webapplikasjoner, er VERS
 
 En foreløpig siste del som må nevnes er FEILRETTING, som også kalles for DEBUGGING (som kommer fra det engelske ordet "bug", og kan fritt oversettes til norsk som "avlusing").
  
+---
+
+## Viktige teknologier
+
+* HTML5 (video/audio, lerret, weblagring, geolokasjon)
+* CSS3 (posisjon, gradienter, overganger, pseudoklasser)
+* Twitter Bootstrap (navbar, jumbotron, alerts, grids)
+* JavaScript (arrays, objects, form validation, ajax)
+* jQuery (selectors, DOM manipulation, events, image slider)
+
+* Node.js (npm, express, template engines, authentication)
+* Meteor.js
+* Angular
+* PHP (MySQL)
+* Ruby on Rails
+
+* MySQL (PHP integration)
+* PostgreSQL (... PHP integration)
+* MongoDB
+* CouchDB
+
+* Memcached (telnet commands, libmemcached-tools)
+* Redis (caching, data persistence, data types)
+* Markdown
+* Sass (variables, mixins, extending partials)
+
+* Git
+* Grunt (task runner, concatenation, watch mode)
+* Gulp
+* Crome Developer Tools
+* PHP Debugging
+
+## Oppgaver
+* Simple HTML Template
+* Bootstrap Theme
+* CSS3 dropdown meny
+* Page Cache w/Memcached
+* jQuery image slider
+
+# HTML
+Er en "markup" språk og ikke et programmeringsspråk. HyperText Markup Language. Dynamiske deler i webapplikasjoner er implementert i JavaScript.
+
+HTML består av tagger, som opprinnelig var tenkt for å lage tekstfiler/dokumenter, som et program kan "parse" og generere grafiske elementer som kan vises på skjermen. <b>Dette er et fet skrift</b>
+> <h1> - <h6> 
+> <a>
+> <img>
+
 
 # Referanser
 
