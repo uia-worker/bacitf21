@@ -63,10 +63,13 @@ En foreløpig siste del som må nevnes er FEILRETTING, som også kalles for DEBU
 # HTML
 Er en "markup" språk og ikke et programmeringsspråk. HyperText Markup Language. Dynamiske deler i webapplikasjoner er implementert i JavaScript.
 
-HTML består av tagger, som opprinnelig var tenkt for å lage tekstfiler/dokumenter, som et program kan "parse" og generere grafiske elementer som kan vises på skjermen. <b>Dette er et fet skrift</b>
-> <h1> - <h6> 
-> <a>
-> <img>
+HTML består av tagger, som opprinnelig var tenkt for å lage tekstfiler/dokumenter, som et program kan "parse" og generere grafiske elementer som kan vises på skjermen. 
+```html
+<b>Dette er et fet skrift</b>
+<h1> - <h6> 
+<a>
+<img>
+```
 
 
 # Referanser
