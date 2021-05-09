@@ -74,11 +74,11 @@ Vi bruker Oxford dictionary som et grunnlag for engelske begrep og uttrykk.
 
 ## Viktige begreper
 <dl>
-<dt><BEGREPA></dt>
-<dd>ifølge ("<TITLE>," n.d.) ... </dd>
+<dt>&lt;BEGREPA&gt;</dt>
+<dd>ifølge ("&lt;TITLE&gt;," n.d.) ... </dd>
 
-<dt><BEGREPB></dt>
-<dd> ("<TITLE>," n.d.)</dd>
+<dt>&lt;BEGREPB&gt;</dt>
+<dd> ("&lt;TITLE&gt;," n.d.)</dd>
 <dl>
 
 ## Viktig å vite
