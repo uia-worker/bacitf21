@@ -61,7 +61,30 @@ En foreløpig siste del som må nevnes er FEILRETTING, som også kalles for DEBU
 * jQuery image slider
 
 # HTML
-Er en "markup" språk og ikke et programmeringsspråk. HyperText Markup Language. Dynamiske deler i webapplikasjoner er implementert i JavaScript.
+Vi vil bruke samme struktur for alle våre økter:
+* Viktige begreper
+* Viktig å lære
+* Sentrale verktøy (vanligvis anbefalt)
+* Oppgaver (vanligvis problemløsning, men i starten kan være en del imitasjon)
+* Vurderingskriterier for å bestå oppgaven
+* Godkjenningsprosedurer
+Vi etterstreber å bruke norsk (vanligvis bokmål) så mye som mulig. Vi sjekker de norske begrepene mot Det Norske Akademis Ordbok (sett inn linken med markdown: naob.no). Vi vil bruke engelske begrep og uttrykk der hvor oversettelse virker uegnet (en følelse). Disse vil vi prøve alltid å legge i anførselstegn. 
+
+Vi bruker Oxford dictionary som et grunnlag for engelske begrep og uttrykk.
+
+## Viktige begreper
+<dl>
+<dt><BEGREPA></dt>
+<dd>ifølge ("<TITLE>," n.d.) ... </dd>
+
+<dt><BEGREPB></dt>
+<dd> ("<TITLE>," n.d.)</dd>
+<dl>
+
+## Viktig å vite
+HyperText Markup Language er en "markup" språk og ikke et programmeringsspråk.
+
+Dynamiske deler i webapplikasjoner er vanligvis implementert i JavaScript. "Vanligvis" 
 
 HTML består av tagger, som opprinnelig var tenkt for å lage tekstfiler/dokumenter, som et program kan "parse" og generere grafiske elementer som kan vises på skjermen. 
 ```html
@@ -70,7 +93,8 @@ HTML består av tagger, som opprinnelig var tenkt for å lage tekstfiler/dokumen
 <a>
 <img>
 ```
-
+## Notater (rå): 
+* Anbefalte tekstbehandlere: Notepad++ under Windows 10 og SublimeText under macOS anbefales i begynnelsen. Ellers finnes det flere IDE, som vi vil anbefale i løpet av studier, som Visual Studio Code og IntelliJ (det finnes mange flere og dere kan bruke den dere ønsker). 
 
 # Referanser
 
