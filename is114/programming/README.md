@@ -24,29 +24,35 @@ En foreløpig siste del som må nevnes er FEILRETTING, som også kalles for DEBU
 ---
 
 ## Viktige teknologier
-
+### Klientsiden ("front-end" i nettleserapplikasjon)
 * HTML5 (video/audio, lerret, weblagring, geolokasjon)
 * CSS3 (posisjon, gradienter, overganger, pseudoklasser)
 * Twitter Bootstrap (navbar, jumbotron, alerts, grids)
 * JavaScript (arrays, objects, form validation, ajax)
 * jQuery (selectors, DOM manipulation, events, image slider)
 
+### Serversiden ("back-end" i skyen)
 * Node.js (npm, express, template engines, authentication)
 * Meteor.js
 * Angular
+* React
+* Vue
 * PHP (MySQL)
 * Ruby on Rails
 
+### Datalagring (lagring og henting av strukturerte og ustrukturerte data)
 * MySQL (PHP integration)
 * PostgreSQL (... PHP integration)
 * MongoDB
 * CouchDB
 
+### Populære hjelpeverktøy (hjelper for kvaliteten)
 * Memcached (telnet commands, libmemcached-tools)
 * Redis (caching, data persistence, data types)
 * Markdown
 * Sass (variables, mixins, extending partials)
 
+### Versjonskontroll og Debugging (relatert til kontinuerlig utvikling)
 * Git
 * Grunt (task runner, concatenation, watch mode)
 * Gulp
